@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Moneda;
 
-namespace ConsoleApplication1
+namespace ConsoleApplication1 //Juan
 {
     class Program
     {
