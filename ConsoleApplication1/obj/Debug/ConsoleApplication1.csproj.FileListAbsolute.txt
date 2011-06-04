@@ -1,0 +1,14 @@
+C:\Users\Eury\Documents\Visual Studio 2008\Projects\Moneda\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Eury\Documents\Visual Studio 2008\Projects\Moneda\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Eury\Documents\Visual Studio 2008\Projects\Moneda\ConsoleApplication1\bin\Debug\Moneda.dll
+C:\Users\Eury\Documents\Visual Studio 2008\Projects\Moneda\ConsoleApplication1\bin\Debug\Moneda.pdb
+C:\Users\Eury\Documents\Visual Studio 2008\Projects\Moneda\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eury\Documents\Visual Studio 2008\Projects\Moneda\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Eury\Documents\Visual Studio 2008\Projects\Moneda\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Documents and Settings\Eq\Escritorio\Moneda\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Documents and Settings\Eq\Escritorio\Moneda\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Documents and Settings\Eq\Escritorio\Moneda\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Documents and Settings\Eq\Escritorio\Moneda\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Documents and Settings\Eq\Escritorio\Moneda\ConsoleApplication1\bin\Debug\Moneda.dll
+D:\Documents and Settings\Eq\Escritorio\Moneda\ConsoleApplication1\bin\Debug\Moneda.pdb
+D:\Documents and Settings\Eq\Escritorio\Moneda\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache

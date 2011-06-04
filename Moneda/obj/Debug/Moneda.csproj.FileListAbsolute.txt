@@ -1,0 +1,5 @@
+C:\Users\Eury\Documents\Visual Studio 2008\Projects\Moneda\Moneda\bin\Debug\Moneda.dll
+C:\Users\Eury\Documents\Visual Studio 2008\Projects\Moneda\Moneda\bin\Debug\Moneda.pdb
+C:\Users\Eury\Documents\Visual Studio 2008\Projects\Moneda\Moneda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eury\Documents\Visual Studio 2008\Projects\Moneda\Moneda\obj\Debug\Moneda.dll
+C:\Users\Eury\Documents\Visual Studio 2008\Projects\Moneda\Moneda\obj\Debug\Moneda.pdb
